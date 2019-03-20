@@ -95,8 +95,8 @@ function evenFinder(nums) {
     if (nums[i] / 2 === 0){
       evens.push(nums[i])
     }
-    return evens
   }
+  return evens
 }
 
 
